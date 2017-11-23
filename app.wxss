@@ -8,3 +8,13 @@
 @import 'styles/action.wxss';
 @import 'styles/story.wxss';
 
+page {
+    background: #f8f8f8;
+}
+.section {
+    /* rem rpx % vh vw viewport */
+    /* 占满一屏 20vh占20% */
+    height: 100vh;
+    background: #3333;
+
+}

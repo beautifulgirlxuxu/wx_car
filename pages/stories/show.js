@@ -1,8 +1,12 @@
 Page({
     data:{
-
+       entity:null
     },
-    onLoad() {
-    
+    onLoad(options) {
+        const id = options.id;
+        console.log(id);
+        // getApp
+        // global
+        // entities
     }
  })
